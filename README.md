@@ -1,5 +1,6 @@
 # Algorithms_DataStructures
 Revisting algorithms and data structures
 
-Checkout using tags
+Checkout with these tags:
+
 doubly-linked-list
